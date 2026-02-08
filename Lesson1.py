@@ -1,0 +1,5 @@
+print("Lesson 1")
+print("My name is Sid \nI am in grade six \nI am 11 years old")
+print(4)
+print("The side of square is ",4,"meter")
+print("My favorite video game is Minecraft",1014,"But my favorite sport is tennis.")
